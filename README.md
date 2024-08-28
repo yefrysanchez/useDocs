@@ -120,9 +120,9 @@ authRouter.post("/login", async (req: Request, res: Response) => {
 ## JsonWebToken
 
 - Start by creating a .env variable called ```JWT_SECRET = secret-name```
-  -The JWT secret key is like a special password used to lock and unlock a JWT (a kind of digital ID card).
-  -When the JWT is created (jwt.sign), the secret key helps lock it up securely so nobody can change it without being noticed.
-  -When someone presents the JWT later (jwt.verify), the secret key is used to unlock and check if it’s still valid and hasn’t been tampered with.
+  - The JWT secret key is like a special password used to lock and unlock a JWT (a kind of digital ID card).
+  - When the JWT is created (jwt.sign), the secret key helps lock it up securely so nobody can change it without being noticed.
+  - When someone presents the JWT later (jwt.verify), the secret key is used to unlock and check if it’s still valid and hasn’t been tampered with.
 
 ### Components of jwt.sign
 
