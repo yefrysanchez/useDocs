@@ -7,3 +7,4 @@
 -  [JsonWebToken](https://github.com/yefrysanchez/useDocs/blob/main/JsonWebToken.md)
 -  [Redux Toolkit](https://github.com/yefrysanchez/useDocs/blob/main/Redux-toolkit.md)
 - [Prisma](https://github.com/yefrysanchez/useDocs/blob/main/prisma.md)
+- [Semantic HTML](https://github.com/yefrysanchez/useDocs/blob/main/SemanticHTML.md)
